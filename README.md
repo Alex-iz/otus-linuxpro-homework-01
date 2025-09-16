@@ -1,7 +1,7 @@
 # otus-linuxpro-homework-01
 Курс "Administrator Linux. Professional". Домашнее задание №1.
 
-Версия ядра после установки ОС:
+1. Проверил версию ядра после установки ОС:
 
 Команда
 uname -r
@@ -9,9 +9,9 @@ uname -r
 Ответ
 6.8.0-79-generic
 
-<img width="192" height="64" alt="image" src="https://github.com/user-attachments/assets/988e5e79-8019-4b05-86a9-948811913f77" />
+<img width="185" height="40" alt="image" src="https://github.com/user-attachments/assets/5f38518c-37a5-4a12-9310-8e7c671d7b06" />
 
-Скачал файлы:
+2. Скачал файлы:
 
 Источник
 https://kernel.ubuntu.com/mainline/v6.17-rc6/amd64/
@@ -24,11 +24,11 @@ wget https://kernel.ubuntu.com/mainline/v6.17-rc6/amd64/linux-modules-6.17.0-061
 
 <img width="1236" height="832" alt="image" src="https://github.com/user-attachments/assets/ff8eb4a6-3a7f-4d73-93e3-9bd64ef7afca" />
 
-Проверил наличие скаченных файлов:
+3. Проверил наличие скаченных файлов:
 
 <img width="977" height="513" alt="image" src="https://github.com/user-attachments/assets/6425b095-1886-446a-b563-fafc8eb6c01e" />
 
-Установил скаченные пакеты
+4. Установил скаченные пакеты
 
 Команда
 sudo dpkg -i linux-headers* linux-image* linux-modules*
