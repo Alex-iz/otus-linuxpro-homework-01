@@ -33,5 +33,24 @@ wget https://kernel.ubuntu.com/mainline/v6.17-rc6/amd64/linux-modules-6.17.0-061
 Команда
 sudo dpkg -i linux-headers* linux-image* linux-modules*
 
-
 <img width="891" height="580" alt="image" src="https://github.com/user-attachments/assets/a9d020d7-227f-4ebf-99ba-9b068012593e" />
+
+5. Обновил загрузчик
+
+   Команда
+   sudo update-grub
+
+   <img width="620" height="211" alt="image" src="https://github.com/user-attachments/assets/6e5ac95c-4e1e-458c-8f8d-48fe5592f5ca" />
+
+7. Перезагрузил ОС
+
+   Команда
+   sudo reboot
+   
+9. Проверил версия ядра ОС
+
+   Команда
+   uname -r
+
+   Ответ
+   
