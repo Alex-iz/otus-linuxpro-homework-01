@@ -3,9 +3,18 @@
 
 Версия ядра после установки ОС:
 
+Команда
+uname -r
+
+Ответ
+6.8.0-79-generic
+
 <img width="192" height="64" alt="image" src="https://github.com/user-attachments/assets/988e5e79-8019-4b05-86a9-948811913f77" />
 
 Скачал файлы:
+
+Источник
+https://kernel.ubuntu.com/mainline/v6.17-rc6/amd64/
 
 <img width="1236" height="832" alt="image" src="https://github.com/user-attachments/assets/ff8eb4a6-3a7f-4d73-93e3-9bd64ef7afca" />
 
